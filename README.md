@@ -6,11 +6,11 @@ the purpose of this analysis is to perform statistical analysis on monthly tempe
 
 ## Results
 
-- The average temperature in July is about 4 degrees higher than in December.
-- The temperature data for July has a slight left skew, meaning that there are outliers where the temperature was very low. The opposite is true for December.
-- The IQR of the temperatures in July is smaller than the IQR of the temperatures in December, meaning there is more variance in the temperatures in December.
+- The average temperature in June is about 4 degrees higher than in December.
+- The temperature data for June has a slight left skew, meaning that there are outliers where the temperature was very low. The opposite is true for December.
+- The IQR of the temperatures in June is smaller than the IQR of the temperatures in December, meaning there is more variance in the temperatures in December.
 
-![July Statistics](Captures/JulyData.PNG)
+![July Statistics](Captures/JuneData.PNG)
 ![December Statistics](Captures/DecemberData.PNG)
 
 ## Summary
