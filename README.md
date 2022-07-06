@@ -15,3 +15,4 @@ the purpose of this analysis is to perform statistical analysis on monthly tempe
 
 ## Summary
 
+From our results, we can garner that the temperature in June is warmer, less variant, and has an opposite skew to that of december. The skews make sense the difference in minimum temperature is much higher than the difference in maximum temperature. The higher standard deviation of December's temperatures also supports the conclusion we made about the variance. Additional analysis can be done along the lines of location as station data is included in the sqlite server. Analysis based on the daily temperature data can also be performed with a line plot.
